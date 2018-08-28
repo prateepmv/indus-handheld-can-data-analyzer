@@ -172,3 +172,5 @@ GD5506P LCD Glass Segment Mapping for DEMO9S12HY64
 #define SEG_P3      LCDRAM9_FP19BP2     // JellyfishTentacles
 #define SEG_P2      LCDRAM9_FP19BP1     // JellyfishLabel
 #define SEG_P1      LCDRAM9_FP19BP0     // JellyfishPart Num
+/*Added new Timer1 - Timeout for 100ms  */
+#define TMR1_TMOUT   (100)
